@@ -1,16 +1,14 @@
-# untitled
+<h1 align="center">PROVIDER via FLUTTER</h1> 
+<h1 align="center">Check 'main.dart' and other dart page for more information ! </h1> 
+<h1 align="center">Pictures about Application</h1> 
+<h3 align="center">Together with the provider structure, we used the method of listening to the contents of the objects on any page. I have shown that this structure can also be used in stateless widgets, unlike the setstate method.
+</h3> 
 
-A new Flutter project.
+<p align="center">
+  <img src="https://github.com/sametTonbul/provider/blob/master/Screenshot_20220928_001224.png" width="325" height="578" />
+  
+<p align="center">
+  <img src="https://github.com/sametTonbul/provider/blob/master/Screenshot_20220928_001243.png" width="325" height="578" />
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  
